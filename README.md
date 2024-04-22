@@ -1,0 +1,1 @@
+# how-to-verify-blockscout-degen
